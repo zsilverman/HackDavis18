@@ -17,3 +17,6 @@ Utilizing the instantaneous response of Firebase real time database, we were abl
 [Click to see our mobile app layout](https://github.com/zsilverman/HackDavis18/blob/master/mobile-app.jpg)
 
 [Click to see an example of a life saving emergency video](https://github.com/zsilverman/HackDavis18/blob/master/cpr.jpg)
+
+[Devpost](https://devpost.com/software/finder-1jqr5z)
+
