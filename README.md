@@ -12,6 +12,7 @@ Our mobile app allows callers to press a button and be instantly connected to a 
 ## How we built it
 Utilizing the instantaneous response of Firebase real time database, we were able to ensure the quick transfer of information from the caller to the dispatcher. Using React-Native we developed an app where users can set personal information such as name, age, pre-existing conditions, and medications. On the press of a button a call is made from the phone to a 911 dispatcher, and the caller's personal information, along with their GPS coordinates, are stored in our Firebase real time database. The dispatcher views a dashboard built using React and hosted on Google Cloud that loads the caller's personal information from Firebase. Here the dispatcher can read their medical information and view their location on a map in real time.
 
+
 ![Dispatch dashboard](https://github.com/zsilverman/HackDavis18/blob/master/dispatch-dashboard.png)
 
 [Click to see our mobile app layout](https://github.com/zsilverman/HackDavis18/blob/master/mobile-app.jpg)
